@@ -32,16 +32,29 @@ If the goals and objectives above are met for this project,
 the application will enhance locating missing keys quickly and efficiently.
 
 ** KeyFinder Project Time-line**
-
-[![Alt text](/C:\Users\LenovoLap\Desktop\AndroidKeyFinderproject\ProjectTimeline.jpg?raw=true)]
+ . Imported file
 
 **Risk list**
 
-
-| Risk name (value)  | Impact | Likelihod | Deskcription | Mitigation |
+| Risk name (value)  | Impact | Likelihod | Deskcription | Mitigation |
 | ------------- | ------------- | ------- | ------------ | ---------- |
-| Android Version(0)  | 9 | 2 | Note supported | Use supported version |
+| Android Version(0)  | 9 | 2 | Note supported | Use supported version |
 
+| Risk name (value)  | Impact | Likelihod | Deskcription | Mitigation |
+| ------------- | ------------- | ------- | ------------ | ---------- |
+| MetaWear Misplace(40)  | 9 | 1 | Loosing Device | secure device in Backpack |
+
+| Risk name (value)  | Impact | Likelihod | Deskcription | Mitigation |
+| ------------- | ------------- | ------- | ------------ | ---------- |
+| MetaWear Malfunction (40)  | 10 | 5 | Device stop working | Troubleshooting techniques |
+
+| Risk name (value)  | Impact | Likelihod | Deskcription | Mitigation |
+| ------------- | ------------- | ------- | ------------ | ---------- |
+| Code Issue (0)  | 9 | 4 | Cannot develop code | Research code example |
+
+| Risk name (value)  | Impact | Likelihod | Deskcription | Mitigation |
+| ------------- | ------------- | ------- | ------------ | ---------- |
+| App Function (0)  | 9 | 2 | Button not displaying contents | MetaWear Tutorials |
 
 **User stories**
 
