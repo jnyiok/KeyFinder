@@ -1,8 +1,6 @@
 **Executive Project Summary**
 
-The purpose of this project is to develop an application that will serve as a key finder. 
-This application will locate key location and give the feedback in real time. 
-This application will be consisted of MetaWear device to be attached to the key chain and an application that displays information Android device's screen.
+The purpose of this project is to develop an application that will serve as a Key Finder. This application will reduce the time people consumed finding their keys when are missing, by displaying the location of the keys on their Android phone or tablet screen in real time. The benefit of this application over other Key Finder technologies such as RFID, is that it uses Bluetooth Low energy device to function as signal transmitter which is powered by battery and configurable on Android mobile device. Other technologies such as RFID uses much more complicated expensive systems with different components, such as tags, readers, reader control and an application software. This application will be consisting of MetaWear Bluetooth low energy device that will be attached to the key chain plus Key Finder app for Android phone or tablets.This application will be highly accessible to users because Android smart phone or tablet will be use as primary receiver. 
 
 **Project Goal and objectives**
 
@@ -28,8 +26,8 @@ This application will be consisted of MetaWear device to be attached to the key 
 
 • App testing
 
-If the goals and objectives above are met for this project, 
-the application will enhance locating missing keys quickly and efficiently.
+If the goals and objectives above are met for Key Finder application, 
+the application will help masses communities and industries locating their missing keys quickly and efficiently.
 
 ** KeyFinder Project Time-line**
  . Imported file
