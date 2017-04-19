@@ -72,5 +72,7 @@ As a **app hacker** hacker want to **eavesdrop or disrupt the connection between
 As for a **Physical damage** the **device will not function**, **this decrease the probability of finding or locating keys**.
 
 
+#**Component Architectural Diagram**#
 
-![Alt text](https://github.com/jnyiok/KeyFinder/blob/master/ComponenArchitecturalDiagram.jpeg "Component Architectural Diagram")
+
+![Alt text](https://github.com/jnyiok/KeyFinder/blob/master/ComponenArchitecturalDiagram.jpeg")
