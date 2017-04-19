@@ -30,7 +30,7 @@ If the goals and objectives above are met for Key Finder application,
 the application will help masses communities and industries locating their missing keys quickly and efficiently.
 
 
-** KeyFinder Project Time-line**
+**KeyFinder Project Time-line**
  
  
 
