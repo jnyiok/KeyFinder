@@ -75,4 +75,4 @@ As for a **Physical damage** the **device will not function**, **this decrease t
 #**Component Architectural Diagram**#
 
 
-![Alt text](https://github.com/jnyiok/KeyFinder/blob/master/ComponenArchitecturalDiagram.jpeg")
+![Alt text](https://github.com/jnyiok/KeyFinder/blob/master/ComponenArchitecturalDiagram.jpeg)
