@@ -73,6 +73,7 @@ As for a **Physical damage** the **device will not function**, **this decrease t
 
 
 
+
 **Component Architectural Diagram**
 
 
