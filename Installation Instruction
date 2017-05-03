@@ -1,0 +1,6 @@
+Install Gradle Vision 2.25
+2. Install Android Studio 2.2.3
+Install Google Android SDKs (API 23) unless include in Android studio in step 1
+App can be fork or download
+Use Get started instruction available ![Alt text](https://developer.android.com/training/basics/firstapp/creating-project.html)
+To import or create a new or an existing Ibeacon project in Android studio
