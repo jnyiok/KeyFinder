@@ -91,4 +91,4 @@ As an **Ibeacon App hater** I want to  **find Ibeacon or MetaWear device and da
 
 **Component Architectural Diagram**
 
-![Alt text](https://github.com/jnyiok/KeyFinder/blob/master/ComponenArchitecturalDiagram.jpeg)
+![Alt text](https://github.com/jnyiok/KeyFinder/blob/master/AppComponentArchitecturalDiagram.png )
