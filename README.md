@@ -62,31 +62,30 @@ the application will help masses communities and industries locating their missi
 | App Function (0)  | 9 | 2 | Button not displaying contents | MetaWear Tutorials |
 
 
-**User stories**
+**User stories** 
 
+1. ***Asset Tracking***
 
-**1. Reaching the Board**
+As an **Ibeacon App user**, I want to **attach my Ibeacon emitter device and track its location within Bluetooth appropriate distance** to **locate my valuable item when is missing**.
 
-As a **Key Finder app connect user**, I want to **connect to my board** so I can **figured out what is happening with my MetaWear Board**.
+2. ***Access Management***
 
-**2. Missing Key**
+As an **Ibeacon App User**, I want to **connect to my Ibeacon emitter device attached to my valuable Item** To **have Ibeacon broadcast Ibeacon’s distance information from the Application when I press start scan button**.
 
-As a **App lookup user**, I want to **Display the location of my missing keys on my android device’s screen** so I can **be able to locate my keys quickly and efficiently**.
+3. ***broadcast Information***
 
-**3. Board’s Power**
-
-As a **Application’s power saver user**, I want to **Terminate Bluetooth connection to my MetaWear board** so I can **reserve the power on my board and avoid charging my board frequently**.
+As an **Ibeacon App user**, I want to **have advertised distance Information in meter and RSSI** To **have a better reading of distance information since RSSI display negative value information**.
 
 
 **Misuser Stories**
 
-**1. Application Hacker**
+1. **Ibeacon Disruptive**
 
-As a **Misuser** I want to **prevent Bluetooth connection between Key Finder App and MetaWear board device**, So I can **prevent key finder app user locating keys**.
+As an **Ibeacon app distrupter**, I want to **eavesdrop or disrupt the connection between the app and device** to **prevent Ibeacon App user locating their valuable items attached to the Ibeacon emitter device**.
 
-**2. Physical spoiler**
+2. **Physical Damage**
 
-As a **Misuser** I want to **damage MetaWear board device** so I can **eliminate Key finder application's user chances of  finding or locating keys quickly**.
+As an **Ibeacon App hater** I want to  **find Ibeacon or MetaWear device and damage it** to **destroy Ibeacon App’s user change of using it again**.
 
 
 
