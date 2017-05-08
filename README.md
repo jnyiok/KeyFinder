@@ -81,7 +81,7 @@ As an **Ibeacon App user**, I want to **have advertised distance Information in 
 
 1. **Ibeacon Disruptive**
 
-As an **Ibeacon app distrupter**, I want to **eavesdrop or disrupt the connection between the app and device** to **prevent Ibeacon App user locating their valuable items attached to the Ibeacon emitter device**.
+As an **Ibeacon app distrupter**, I want to **eavesdrop or disrupt the connection between the app and device** to **prevent Ibeacon App users locating their valuable items attached to the Ibeacon emitter device**.
 
 2. **Physical Damage**
 
